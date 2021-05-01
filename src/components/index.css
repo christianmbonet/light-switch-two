@@ -1,0 +1,156 @@
+button {
+    border: none;
+}
+
+.page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    height: 100vh;
+    width: 100vh;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: middle;
+    align-items: center;
+}
+
+.topRow {
+    display: flex;
+}
+
+
+.topLeftPink {
+    display: flex;
+    height: 125px;
+    width: 125px;
+    background-color: hotpink;
+}
+
+.topLeftLightBlue {
+    display: flex;
+    height: 125px;
+    width: 125px;
+    background-color: blueviolet;
+}
+
+.topMiddleBlue {
+    display: flex;
+    height: 125px;
+    width: 125px;
+    background-color: blue;
+}
+
+.topMiddlePink {
+    display: flex;
+    height: 125px;
+    width: 125px;
+    background-color: pink;
+}
+
+.topRightPink {
+    display: flex;
+    height: 125px;
+    width: 125px;
+    background-color: lightblue;
+}
+
+.topRightLightBlue {
+    display: flex;
+    height: 125px;
+    width: 125px;
+    background-color: hotpink;
+}
+
+.middleRow {
+    display: flex;
+}
+
+.middleLeftBlue {
+    display: flex;
+    height: 125px;
+    width: 125px;
+    background-color: blue;
+}
+
+.middleLeftPink {
+    display: flex;
+    height: 125px;
+    width: 125px;
+    background-color: pink;
+}
+
+.middleMiddle {
+    display: flex;
+    height: 125px;
+    width: 125px;
+    background-color: lightblue;
+}
+
+.middleRightBlue {
+    display: flex;
+    height: 125px;
+    width: 125px;
+    background-color: blue;
+}
+
+.middleRightPink {
+    display: flex;
+    height: 125px;
+    width: 125px;
+    background-color: pink;
+}
+
+.bottomRow {
+    display: flex;
+}
+
+.bottomLeft {
+    display: flex;
+    flex-direction: column;
+}
+
+.bottomLeftPink {
+    display: flex;
+    height: 125px;
+    width: 125px;
+    background-color: lightblue;
+}
+
+.bottomLeftLightBlue {
+    display: flex;
+    height: 125px;
+    width: 125px;
+    background-color: hotpink;
+}
+
+.bottomMiddleBlue {
+    display: flex;
+    height: 125px;
+    width: 125px;
+    background-color: blue;
+}
+
+.bottomMiddlePink {
+    display: flex;
+    height: 125px;
+    width: 125px;
+    background-color: pink;
+}
+
+.bottomRightPink {
+    display: flex;
+    height: 125px;
+    width: 125px;
+    background-color: hotpink;
+}
+
+.bottomRightLightBlue {
+    display: flex;
+    height: 125px;
+    width: 125px;
+    background-color: blueviolet;
+}
