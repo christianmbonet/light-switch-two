@@ -90,6 +90,13 @@ button {
     background-color: lightblue;
 }
 
+.middleMiddleBlack {
+    display: flex;
+    height: 125px;
+    width: 125px;
+    background-color: greenyellow;
+}
+
 .middleRightBlue {
     display: flex;
     height: 125px;
